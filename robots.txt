@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://eaguilarm.com/sitemap-index.xml
+Sitemap: https://aguilar0607.github.io/sitemap-index.xml
